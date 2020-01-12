@@ -11,3 +11,19 @@ Simply install requirements and then run 'orb_demo.py'
 	pip install -r requirements.txt
 
 
+Original Image:
+
+![alt text](https://github.com/shivekchhabra/Feature_Extraction_ORB/blob/master/sample_inputs/book.jpg)
+
+After Extracting Features:
+![alt text](https://github.com/shivekchhabra/Feature_Extraction_ORB/blob/master/sample_outputs/book_output.png)
+
+
+Original Imgage:
+
+![alt text](https://github.com/shivekchhabra/Feature_Extraction_ORB/blob/master/sample_inputs/telephone.jpeg)
+
+After Extracting Features:
+
+![alt text](https://github.com/shivekchhabra/Feature_Extraction_ORB/blob/master/sample_outputs/telephone_output.png)
+
